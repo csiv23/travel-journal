@@ -1,4 +1,4 @@
-# travel-journal
+# travel-log
 
 Quick start:
 
